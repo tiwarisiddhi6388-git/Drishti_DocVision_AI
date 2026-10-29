@@ -1,0 +1,5 @@
+job_id,created_at,file_name,status,document_type,heading,page_count,is_valid,validation_score
+da912cd1,2026-10-27 18:35:13 UTC,30620e0e3f0766ab_Gmail - Shortlisted for Incubation at IIT Mandi Catalyst _ Confirmation for Next Steps - Agripredictx.pdf,completed,invoice,NORTHSTAR SUPPLIES TAX INVOICE,3,True,1.0
+841acb14,2026-10-27 18:43:32 UTC,bfe35df267ddc52b_A-5.pdf,completed,invoice,NORTHSTAR SUPPLIES TAX INVOICE,38,True,1.0
+c9ce4ff2,2026-10-27 18:54:04 UTC,bfe35df267ddc52b_A-5.pdf,completed,invoice,NORTHSTAR SUPPLIES TAX INVOICE,38,True,1.0
+a7379aa6,2026-10-27 18:55:20 UTC,6e77f67f143020b2_A-3.pdf,completed,invoice,NORTHSTAR SUPPLIES TAX INVOICE,4,True,1.0

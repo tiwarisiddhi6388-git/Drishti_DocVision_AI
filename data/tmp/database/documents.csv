@@ -1,0 +1,2 @@
+job_id,created_at,file_name,status,document_type,heading,page_count,is_valid,validation_score
+339d4cea,2026-10-27 18:39:23 UTC,smoke_invoice.png,completed,invoice,NORTHSTAR SUPPLIES TAX INVOICE,1,True,1.0

@@ -1,0 +1,8 @@
+job_id,page_num,region_index,type,text,bbox,confidence,meta
+339d4cea,1,0,heading,NORTHSTAR SUPPLIES TAX INVOICE,"[64.0, 55.0, 720.0, 110.0]",0.96,{}
+339d4cea,1,1,form_field,Invoice No → INV-2048,"[64.0, 154.00000000000003, 304.0, 192.5]",0.929,"{""label"": ""Invoice No"", ""value"": ""INV-2048""}"
+339d4cea,1,2,form_field,Date → 12 Oct 2026,"[64.0, 209.0, 272.0, 247.5]",0.962,"{""label"": ""Date"", ""value"": ""12 Oct 2026""}"
+339d4cea,1,3,table,Item | HSN | Qty | Unit Price,"[54.0, 347.0, 666.0, 577.0]",0.93,"{""n_spans"": 20}"
+339d4cea,1,4,key_value,"Subtotal → ₹4,050","[440.00000000000006, 638.0, 704.0, 676.5]",0.969,"{""label"": ""Subtotal"", ""value"": ""₹4,050""}"
+339d4cea,1,5,key_value,"Total Amount → ₹4,779","[440.00000000000006, 803.0, 720.0, 847.0]",0.966,"{""label"": ""Total Amount"", ""value"": ""₹4,779""}"
+339d4cea,1,6,figure,Company logo (no OCR text),"[600.0, 44.0, 760.0, 154.00000000000003]",0.85,{}

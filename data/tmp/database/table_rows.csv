@@ -1,0 +1,4 @@
+job_id,table_index,row_index,values
+339d4cea,0,0,"{""Item"": ""USB hub"", ""Qty"": ""2"", ""Unit Price"": ""₹750"", ""Amount"": ""₹1,500""}"
+339d4cea,0,1,"{""Item"": ""HDMI cable"", ""Qty"": ""3"", ""Unit Price"": ""₹450"", ""Amount"": ""₹1,350""}"
+339d4cea,0,2,"{""Item"": ""Wireless mouse"", ""Qty"": ""1"", ""Unit Price"": ""₹1,200"", ""Amount"": ""₹1,200""}"

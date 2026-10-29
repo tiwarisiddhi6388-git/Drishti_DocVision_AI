@@ -1,0 +1,16 @@
+# Core
+streamlit>=1.32.0
+pymupdf>=1.23.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+pydantic>=2.5.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+
+# Advanced OCR – PaddleOCR + PP-Structure
+paddlepaddle==2.6.1
+paddleocr>=2.7.3
+
+# Optional GPU (use with CUDA base image)
+# paddlepaddle-gpu==2.6.1
