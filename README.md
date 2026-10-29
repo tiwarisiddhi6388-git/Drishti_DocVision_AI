@@ -4,6 +4,7 @@
 *From flat text → structured, traceable & decision-ready records*
 
 Team **Trendline Titans** · Leader: Hariom Chandra Tripathi
+                            Member:- Siddhi Tiwari
 
 ---
 
